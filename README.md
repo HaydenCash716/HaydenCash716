@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=00E5FF&text=Hayden%20Cash&fontColor=0B0E14&fontSize=58&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Drift&descColor=0B0E14&descAlignY=64&descSize=20&animation=fadeIn" alt="Hayden Cash" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=00E5FF&text=Hayden%20Cash&fontColor=0B0E14&fontSize=58&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Race%20Car%20Driver&descColor=0B0E14&descAlignY=64&descSize=18&animation=fadeIn" alt="Hayden Cash" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/University_of_West_Georgia-Student-00E5FF?style=for-the-badge&labelColor=0B0E14" alt="Student" />
@@ -18,9 +18,8 @@
 
 ### About
 
-Software engineering student at the **University of West Georgia**. I build software and I drift.<br>
-Whether I am writing code or holding a slide through a corner, the goal is the same &mdash;<br>
-do it clean, then do it better.
+Software engineering student at the **University of West Georgia**. I write code, and<br>
+outside of that I drift cars. Always building something and getting faster at both.
 
 </div>
 
