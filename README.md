@@ -18,8 +18,8 @@
 
 ### About
 
-Software engineering student at the **University of West Georgia**. I write code, and<br>
-outside of that I drift cars.
+Software engineering student at the **University of West Georgia**. I write code and solve problems.<br>
+Outside of that, I have a 1995 Ford Mustang SN95 that I work on and take to the track.
 
 </div>
 
