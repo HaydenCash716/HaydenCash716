@@ -49,7 +49,7 @@ outside of that I drift cars.
 
 ### Contribution Track
 
-<img src="https://raw.githubusercontent.com/HaydenCash716/HaydenCash716/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HaydenCash716/HaydenCash716/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
 
 </div>
 
