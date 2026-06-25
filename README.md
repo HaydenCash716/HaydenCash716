@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/hayden-cash-126823370">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0B0E14" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HaydenCash716&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS&labelColor=0B0E14" alt="Profile Views" />
 </p>
 
 </div>
@@ -18,8 +17,8 @@
 
 ### About
 
-Software engineering student at the **University of West Georgia**. I write code and solve problems.<br>
-Outside of that, I have a 1995 Ford Mustang SN95 that I work on and take to the track.
+Software engineering student at the **University of West Georgia**. I write code, and<br>
+outside of that I drift cars.
 
 </div>
 
@@ -29,7 +28,13 @@ Outside of that, I have a 1995 Ford Mustang SN95 that I work on and take to the 
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css,git,vscode&theme=dark&perline=8" alt="Tech Stack" />
+<p>
+  <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=xcode,androidstudio,neon" alt="Xcode, Android Studio, Neon" />
+  &nbsp;
+  <img height="48" src="https://github.com/triggerdotdev.png" alt="Trigger.dev" title="Trigger.dev" />
+  &nbsp;
+  <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=vercel,typescript,python" alt="Vercel, TypeScript, Python" />
+</p>
 
 </div>
 
