@@ -54,7 +54,7 @@ outside of that I drift cars.
 
 ### Contribution Track
 
-<img src="https://raw.githubusercontent.com/HaydenCash716/HaydenCash716/output/github-contribution-grid-snake-dark.svg?v=2" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaydenCash716&bg_color=0B0E14&color=00E5FF&line=00E5FF&point=FF2E63&area=true&area_color=00E5FF&hide_border=true&radius=8" alt="Contribution Activity Graph" width="100%" />
 
 </div>
 
