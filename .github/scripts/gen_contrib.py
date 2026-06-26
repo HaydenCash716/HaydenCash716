@@ -6,7 +6,11 @@ OUT = sys.argv[1] if len(sys.argv) > 1 else "assets/contributions.svg"
 # Pull the FULL per-day contribution data (includes private contributions while
 # the profile setting is on). We use only the data-score/data-date values, then
 # render our own clean dark + blue grid (GitHub dark look, but blue).
-raw = urllib.request.urlopen(f"https://ghchart.rshah.org/00E5FF/{USER}", timeout=60).read().decode()
+# A browser User-Agent is required (the source 403s the default Python UA).
+req = urllib.request.Request(
+    f"https://ghchart.rshah.org/00E5FF/{USER}",
+    headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"})
+raw = urllib.request.urlopen(req, timeout=60).read().decode()
 
 cells = [(int(x), int(y), int(s), d) for s, d, x, y in
          re.findall(r'data-score="(\d+)"\s+data-date="([\d-]+)"\s+x="(\d+)"\s+y="(\d+)"', raw)]
