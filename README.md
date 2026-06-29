@@ -17,7 +17,7 @@
 
 ### About
 
-Software engineering student at the **University of West Georgia**. I write code, and<br>
+Software engineering student at the **University of West Georgia**. I write code and<br>
 drift cars
 
 </div>
