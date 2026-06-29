@@ -18,7 +18,7 @@
 ### About
 
 Software engineering student at the **University of West Georgia**. I write code, and<br>
-outside of that I drift cars.
+drift cars
 
 </div>
 
