@@ -44,7 +44,7 @@ drift cars
 
 ### Streak
 
-<img src="https://streak-stats.demolab.com/?user=HaydenCash716&hide_border=true&background=0B0E14&stroke=00E5FF&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=HaydenCash716&hide_border=true&background=0B0E14&stroke=00E5FF&ring=00E5FF&fire=FF2E63&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&v=2" alt="Streak" />
 
 </div>
 
