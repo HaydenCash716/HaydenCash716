@@ -44,7 +44,7 @@ drift cars
 
 ### Streak
 
-<img src="https://raw.githubusercontent.com/HaydenCash716/HaydenCash716/main/assets/streak.svg" alt="Streak" width="100%" />
+<img src="https://raw.githubusercontent.com/HaydenCash716/HaydenCash716/main/assets/streak.svg" alt="Streak" width="495" />
 
 </div>
 
