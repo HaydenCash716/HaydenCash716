@@ -14,10 +14,14 @@ jobs:
       - uses: actions/checkout@v4
       - name: Generate contribution grid
         run: python3 .github/scripts/gen_contrib.py assets/contributions.svg
+      - name: Generate streak card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/gen_streak.py assets/streak.svg
       - name: Commit if changed
         run: |
           git config user.name "HaydenCash716"
           git config user.email "hlc8808@gmail.com"
-          git add assets/contributions.svg
-          git diff --cached --quiet || git commit -m "Update contribution grid"
+          git add assets/contributions.svg assets/streak.svg
+          git diff --cached --quiet || git commit -m "Update contribution grid + streak"
           git push
