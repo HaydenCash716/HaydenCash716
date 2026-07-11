@@ -4,7 +4,7 @@
   <line x1="330" y1="30" x2="330" y2="165" stroke="#00E5FF" stroke-width="1" opacity="0.6"/>
   
   <g text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif">
-    <text x="82" y="82" font-size="28" font-weight="700" fill="#C9D1D9">953</text>
+    <text x="82" y="82" font-size="28" font-weight="700" fill="#C9D1D9">988</text>
     <text x="82" y="114" font-size="14" font-weight="600" fill="#00E5FF">Total Contributions</text>
     <text x="82" y="138" font-size="12" fill="#8B949E">Dec 16, 2025 - Present</text>
   </g>
@@ -16,7 +16,7 @@
       d="M0,-9 C5,-4 8,-1 4,4 C7,2 8,-1 8,3 C8,9 4,12 0,12 C-4,12 -8,9 -8,3 C-8,0 -6,-2 -4,-1 C-6,-5 -2,-6 0,-9 Z"/>
     <text x="248" y="72" font-size="34" font-weight="700" fill="#C9D1D9">34</text>
     <text x="248" y="118" font-size="14" font-weight="600" fill="#00E5FF">Current Streak</text>
-    <text x="248" y="142" font-size="12" fill="#8B949E">Jun 7 - Jul 10</text>
+    <text x="248" y="142" font-size="12" fill="#8B949E">Jun 7 - Jul 11</text>
   </g>
   
   <g text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif">
