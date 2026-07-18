@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="672" height="259" viewBox="0 0 672 259" role="img" aria-label="Making it happen">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#7CF9FF"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0;1 0;-1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bgg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E14"/>
+      <stop offset="1" stop-color="#0E141F"/>
+    </linearGradient>
+    <clipPath id="c0"><rect x="34.0" y="27.6" width="0" height="22.1"><animate attributeName="width" values="0;604.5;604.5;604.5;0" keyTimes="0;0.079;0.825;0.97;1" begin="0.00s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c1"><rect x="34.0" y="43.4" width="0" height="22.1"><animate attributeName="width" values="0;604.5;604.5;604.5;0" keyTimes="0;0.079;0.825;0.97;1" begin="0.14s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="34.0" y="59.2" width="0" height="22.1"><animate attributeName="width" values="0;604.5;604.5;604.5;0" keyTimes="0;0.079;0.825;0.97;1" begin="0.28s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="34.0" y="75.1" width="0" height="22.1"><animate attributeName="width" values="0;604.5;604.5;604.5;0" keyTimes="0;0.079;0.825;0.97;1" begin="0.42s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="34.0" y="90.9" width="0" height="22.1"><animate attributeName="width" values="0;604.5;604.5;604.5;0" keyTimes="0;0.079;0.825;0.97;1" begin="0.56s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="34.0" y="106.7" width="0" height="22.1"><animate attributeName="width" values="0;604.5;604.5;604.5;0" keyTimes="0;0.079;0.825;0.97;1" begin="0.70s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="34.0" y="132.0" width="0" height="22.1"><animate attributeName="width" values="0;465.0;465.0;465.0;0" keyTimes="0;0.079;0.825;0.97;1" begin="0.84s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="34.0" y="147.8" width="0" height="22.1"><animate attributeName="width" values="0;465.0;465.0;465.0;0" keyTimes="0;0.079;0.825;0.97;1" begin="0.98s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c8"><rect x="34.0" y="163.6" width="0" height="22.1"><animate attributeName="width" values="0;465.0;465.0;465.0;0" keyTimes="0;0.079;0.825;0.97;1" begin="1.12s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c9"><rect x="34.0" y="179.4" width="0" height="22.1"><animate attributeName="width" values="0;465.0;465.0;465.0;0" keyTimes="0;0.079;0.825;0.97;1" begin="1.26s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c10"><rect x="34.0" y="195.2" width="0" height="22.1"><animate attributeName="width" values="0;465.0;465.0;465.0;0" keyTimes="0;0.079;0.825;0.97;1" begin="1.40s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+    <clipPath id="c11"><rect x="34.0" y="211.0" width="0" height="22.1"><animate attributeName="width" values="0;465.0;465.0;465.0;0" keyTimes="0;0.079;0.825;0.97;1" begin="1.54s" dur="5.73s" repeatCount="indefinite" calcMode="spline" keySplines="0.25 0.1 0.25 1;0 0 1 1;0 0 1 1;0.6 0 0.4 1" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect x="0" y="0" width="672" height="259" rx="16" fill="url(#bgg)"/>
+  <rect x="1.5" y="1.5" width="669" height="256" rx="15" fill="none" stroke="#00E5FF" stroke-opacity="0.22" stroke-width="1.5"/>
+  <g>
+    <text x="34.0" y="43.4" clip-path="url(#c0)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">███╗   ███╗ █████╗ ██╗  ██╗██╗███╗   ██╗ ██████╗     ██╗████████╗</text>
+    <text x="34.0" y="59.2" clip-path="url(#c1)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">████╗ ████║██╔══██╗██║ ██╔╝██║████╗  ██║██╔════╝     ██║╚══██╔══╝</text>
+    <text x="34.0" y="75.1" clip-path="url(#c2)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">██╔████╔██║███████║█████╔╝ ██║██╔██╗ ██║██║  ███╗    ██║   ██║   </text>
+    <text x="34.0" y="90.9" clip-path="url(#c3)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">██║╚██╔╝██║██╔══██║██╔═██╗ ██║██║╚██╗██║██║   ██║    ██║   ██║   </text>
+    <text x="34.0" y="106.7" clip-path="url(#c4)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">██║ ╚═╝ ██║██║  ██║██║  ██╗██║██║ ╚████║╚██████╔╝    ██║   ██║   </text>
+    <text x="34.0" y="122.5" clip-path="url(#c5)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝   ╚═╝   </text>
+    <text x="34.0" y="147.8" clip-path="url(#c6)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">██╗  ██╗ █████╗ ██████╗ ██████╗ ███████╗███╗   ██╗</text>
+    <text x="34.0" y="163.6" clip-path="url(#c7)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝████╗  ██║</text>
+    <text x="34.0" y="179.4" clip-path="url(#c8)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">███████║███████║██████╔╝██████╔╝█████╗  ██╔██╗ ██║</text>
+    <text x="34.0" y="195.2" clip-path="url(#c9)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">██╔══██║██╔══██║██╔═══╝ ██╔═══╝ ██╔══╝  ██║╚██╗██║</text>
+    <text x="34.0" y="211.0" clip-path="url(#c10)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">██║  ██║██║  ██║██║     ██║     ███████╗██║ ╚████║</text>
+    <text x="34.0" y="226.8" clip-path="url(#c11)" font-family="monospace" font-size="15.5" fill="url(#grad)" xml:space="preserve">╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═══╝</text>
+  </g>
+  <rect x="504.6" y="215.8" width="9.3" height="15.8" fill="#00E5FF" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;0" keyTimes="0;0.372;0.380;0.442;0.503;0.564;0.625;0.686;0.747;1" dur="5.73s" repeatCount="indefinite"/></rect>
+</svg>
